@@ -1,0 +1,30 @@
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\bin\Debug\Class ile Sinema Bilet Satış.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class_ile_Sinema_Bilet_Satış.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\C#\Class ile Örnekler\Class ile Sinema Bilet Satış\obj\Debug\Class ile Sinema Bilet Satış.pdb
